@@ -78,6 +78,7 @@ export default function Home() {
             titulo="Tarjeta con Tailwind"
             descripcion="Estilizado completamente con clases de Tailwind CSS"
             etiqueta="Moderno"
+            imagen={null}
           />
           <TarjetaTailwind
             titulo="Tarjeta con Imagen"
